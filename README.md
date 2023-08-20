@@ -1,0 +1,3 @@
+- Hi We're Alberto Studio And we are focused on making Projects all free and open source
+- For indie and Teams to use for cormercial and public use
+-- 
